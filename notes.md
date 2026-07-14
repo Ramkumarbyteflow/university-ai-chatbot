@@ -4,3 +4,4 @@
 - Git installed and configured
 - GitHub repo created
 - Learning git commands
+- Understood git add, commit, push and why GitHub matters
